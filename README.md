@@ -3,7 +3,8 @@
 This is a painting application created during the 5th week of the bootcamp Code For All.
 At this time, we were using a graphics library, owned by Code for All, and so we've build app to explore the different functionalities of the library. 
 <br> 
-#### Languages and libraries: Java and Simple Graphics 
+## Language used:
+ [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev) 
 
 ### It consists of a grid and a cursor. 
 
